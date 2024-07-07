@@ -1,6 +1,6 @@
 # matthakar_machine_learning
 
-Both scripts show how a machine learning model can be trained and implemented to identify qualitative features of images. Given the right training and testing datasets, this tool can be applied to automate qualitative data analysis workflows by identifying image data such as disease states or even trends found in graphical outputs.
+These Python scripts use the PyTorch library to show how a machine learning model can be trained and implemented to identify qualitative features of images. Given the right training and testing datasets, this tool can be applied to automate qualitative data analysis workflows by identifying image data such as disease states or even trends found in graphical outputs.
 
 __________________________________________________________________________________________________________________________________________________________
 
