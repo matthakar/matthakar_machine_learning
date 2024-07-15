@@ -10,7 +10,7 @@ import numpy as np
 ''' 
 The purpose of this Python script is to train a model to identify different vegetable images. To do this, it uses the machine learning library, PyTorch, to train and test a convolutional neural network (CNN) on over 12,000 images.
 
-This script demonstates how a CNN can be trained to identify qualitative features of images. Given the right training and testing datasets, this tool can be applied to automate qualitative data analysis workflows by identifying image data such as disease states or even trends found in graphical outputs.
+This script demonstrates how a CNN can be trained to identify qualitative features of images. Given the right training and testing datasets, this tool can be applied to automate qualitative data analysis workflows by identifying image data such as disease states or even trends found in graphical outputs.
 
 The images used for this script can be found here: https://www.kaggle.com/datasets/matthewhakar/vegetable-images
 
