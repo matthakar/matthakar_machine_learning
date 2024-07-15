@@ -26,7 +26,7 @@ Script 2: matthakar_machine_learning_use_case.py
 
 The purpose of this Python script is to run a trained model to identify different vegetable images. To do this, it uses the machine learning library, PyTorch, to run the trained convolutional neural network (CNN).
 
-To run the model, input unidentified vegetable images from one of the 10 classes into the unidentified_images_directory. Once run, the trained model will output the vegetable classification for each image and display the softmax values (probabilties) for each class to show how certain the model was when classifying a given image.
+To run the model, input unidentified vegetable images from one of the 10 classes into the unidentified_images_directory. Once run, the trained model will output the vegetable classification for each image and display the softmax values (probabilities) for each class to show how certain the model was when classifying a given image.
 
 The images used for this script can be found here: https://www.kaggle.com/datasets/matthewhakar/vegetable-images
 
