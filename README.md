@@ -1,4 +1,4 @@
-# matthakar_machine_learning
+# matthakar_machine_learning_convolutional_neural_network
 
 These Python scripts use the PyTorch library to show how a machine learning model can be trained and implemented to identify qualitative features of images. Given the right training and testing datasets, this tool can be applied to automate qualitative data analysis workflows by identifying image data such as disease states or even trends found in graphical outputs.
 
@@ -30,4 +30,4 @@ To run the model, input unidentified vegetable images from one of the 10 classes
 
 The images used for this script can be found here: https://www.kaggle.com/datasets/matthewhakar/vegetable-images
 
-* Disclaimer --> Since the best model had an accuracy of 95.89% on the testing dataset after 15 epochs, there is definitely room for improvement. Steps can be taken to further increase the accuracy of the model such as adjusting some of the hyper-parameters for future training sessions. However, the best way to improve the model would be to increase both the number and diversity of training and testing images. A softmax analysis could also be useful for determining where the model is most "confused." For example, the model may have a hard time differentiating between the red pepper and the red tomato images, so this is where most of the focus could then be applied when optimizing the model in the future.
+* Disclaimer --> Since the best model had an accuracy of 95.89% on the testing dataset after 15 epochs, there is definitely room for improvement. Steps can be taken to further increase the accuracy of the model such as adjusting some of the hyper-parameters for future training sessions. However, the best way to improve the model would be to increase both the number and diversity of training and testing images. A softmax analysis can also help identify where the model encounters the most challenges. For instance, if the model struggles to distinguish between images of red peppers and red tomatoes, efforts can be concentrated on optimizing this specific differentiation in future iterations.
